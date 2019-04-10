@@ -6,6 +6,7 @@
 ## Ferramentas : 
 ![Rocketseat](/images/logo-rocketseat.png)
 ![ReactJS](/images/logo-reactjs.jpg)
+![ReactNative](/images/logo-react-native.png)
 ![Git](/images/logo-git.png)
 ![GitHub](/images/logo-github.png)<br/>
 ![HTML e CSS](/images/logo-html-css.png)
