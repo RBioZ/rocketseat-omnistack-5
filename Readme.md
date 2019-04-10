@@ -21,7 +21,7 @@
 1. - Nodejs - chocolatey - windows
    - Nodejs - homebrew - MacOS
    - node -v
-2. npm
+2. npm : npm -v
 3. yarn : yarn -v
 4. Editor - VSCode 
 5. Dracula Official
@@ -29,6 +29,7 @@
 7. Rocketseat ReactJS
 8. Rocketseat React Native
 9. Fonte - fira Code
+10. prototipagem de app - sketch para MacOS
 
 #### Vídeo 2. Criando a base da aplicação - 09/04
 
