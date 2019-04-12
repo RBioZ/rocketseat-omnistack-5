@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
 const File = new mongoose.Schema({
     title: {
@@ -14,4 +14,4 @@ const File = new mongoose.Schema({
     timestamps: true
 });
 
-module.exports = mogoose.model('File', File);
+module.exports = mogoose.model("File", File);
