@@ -40,8 +40,7 @@
 6. MongoDB Atlas : banco de dados MongoDB cloud
 7. `yarn add mongoose` : instalando Mongoose 
 8. Mongoose : relacionamento das nossas entidades Box e File 
-9. Insomnia : gerir rotas
-<br/>
+9. Insomnia : gerir rotas <br/>
 - criação de boxes
 - upload de arquivos : `yarn add multer`
 
