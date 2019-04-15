@@ -41,6 +41,9 @@
 7. `yarn add mongoose` : instalando Mongoose 
 8. Mongoose : relacionamento das nossas entidades Box e File 
 9. Insomnia : gerir rotas
+<br/>
+- criação de boxes
+- upload de arquivos : `yarn add multer`
 
 
 #### Vídeo 3. Construindo a interface web - 10/04

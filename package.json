@@ -1,0 +1,8 @@
+{
+  "name": "omnistack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:douglasabnovato/rocketseat-omnistack.git",
+  "author": "@douglasabnovato <douglasabnovato@gmail.com>",
+  "license": "MIT"
+}
