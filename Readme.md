@@ -1,8 +1,9 @@
-# Semana Omnistack - Rocketseat 
+# Rocketseat - Semana Omnistack 5.0 
 
 ## Finalizado: 15 de abril de 2019 - 16:37
 ## Criação: 08 de abril de 2019
 ## Prática : @douglasabnovato
+
 ## Ferramentas : 
 ![Rocketseat](/images/logo-rocketseat.png)
 ![ReactJS](/images/logo-reactjs.jpg)
@@ -15,7 +16,7 @@
 ![NodeJS](/images/nodejs.png)
 ![VSCode](/images/logo-VSCode.png)
 
-## Vídeos
+## Project FullStack React
 
 #### Vídeo 1. Ambiente de desenvolvimento - 08/04
 1. - Nodejs - chocolatey - windows
@@ -53,5 +54,5 @@
 
 #### Vídeo 6. Tirando todas as dúvidas - 14/04
 
-:. Da semana Omnistack da Rocketseat.
+:. Da semana Omnistack da Rocketseat.<br>
 Por Diego Fernandes.
